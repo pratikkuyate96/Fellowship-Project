@@ -3,7 +3,7 @@ public  class Hello{
 		while(true){
 			System.out.println("Hello World");
 				try{
-						Thread.sleep(60000);
+						Thread.sleep(600000);
 					}catch(Exception e){
 						System.out.println(e);
 					}
