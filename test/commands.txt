@@ -1,0 +1,81 @@
+    1  f,gjsdfgjfjgczkm
+    2  ls
+    3  cd/
+    4  cd Desktop
+    5  mkdir ppp
+    6  mkdir
+    7  pwd
+    8  cd ..
+    9  cd ..
+   10   cd linux-content
+   11  cd ..
+   12  clear
+   13  java -version
+   14  mkdir TerminalCommands
+   15  pwd
+   16  pwd
+   17  cd c:
+   18  ls
+   19  mkdir pratik
+   20  cd pratik
+   21  mkdir TerminalCommands
+   22  ls
+   23  cd pratik
+   24  cd TerminalCommand
+   25  cd TerminalCommands
+   26  git --version
+   27  git clone https://github.com/edurekavivekh/linux-content.git
+   28  cd linux-content
+   29  ls
+   30  nano hello world.java
+   31  nano hello World.java
+   32  cd 
+   33  cd c
+   34  cd c:/pratik
+   35  cd c:/pratik/TerminalCommands
+   36  nano -T 3 helloworld.java
+   37  javac helloword.java
+   38  javac helloworld.java
+   39  nano -T 3 helloworld.java
+   40  javac helloworld.java
+   41  java helloworld
+   42  cd c
+   43  cd c:
+   44  cd c:/pratik
+   45  cd c:/pratik/TerminalCommnads
+   46  cd c:/pratik/TerminalCommands
+   47  ls
+   48  nano -T 3 helloworld.java
+   49  javac helloworld.java
+   50  javac\\\ helloworld
+   51  java helloworld
+   52  whereis ls
+   53  whereis
+   54  history
+   55  history >linuxcommand.txt
+   56  clear
+   57  nano -T 3 linuxcmd.sh
+   58  ./linuxcmd.sh
+   59  cd pratik
+   60  cd c:
+   61  cd c:/pratik/TerminalCommands
+   62  ls
+   63  cd ..
+   64  cd ..
+   65  git init
+   66  git add .
+   67  git init
+   68  cd c:/pratik/TerminalCommands
+   69  git init
+   70  git add .
+   71  git add pratik
+   72  git init
+   73  git add .
+   74  git status
+   75  git init
+   76  git add .
+   77  git commit -m "first commit"
+   78  git remote add origin https://github.com/pratikkuyate96/Fellowship-Project.git
+   79  git push origin master
+   80  history
+   81  history > cmd.txt
